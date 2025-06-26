@@ -33,7 +33,34 @@ awtrixPS/
 │ ├── Set-AwtrixIcingaApp.ps1
 │ ├── Set-AwtrixFoerchlogoApp.ps1
 │ └── Files/
-│  └── startwork.txt
+│ │ └── startwork.txt
+├── Files/
+│ ├── ICONS/
+│ │ ├── 8x8/
+│ │ │ ├── garbage/
+│ │ │ │ ├── tonne_bio.gif
+│ │ │ │ ├── tonne_gelb.gif
+│ │ │ │ ├── tonne_papier.gif
+│ │ │ │ └── tonne_restmuell.gif
+│ │ │ ├── teams/
+│ │ │ │ ├── 1232.gif
+│ │ │ │ ├── 11520.jpg
+│ │ │ │ ├── 46936.gif
+│ │ │ │ └── 56891.jpg
+│ │ │ └── weather/
+│ │ │ │ ├── 876.jpg
+│ │ │ │ ├── 2154.jpg
+│ │ │ │ ├── 12294.jpg
+│ │ │ │ ├── 43263.gif
+│ │ │ │ ├── 55417.gif
+│ │ │ │ ├── 60934.gif
+│ │ │ │ ├── 60937.gif
+│ │ │ │ └── 63084.gif
+│ │ │ ├── 1609.gif
+│ │ │ └── 8544.gif
+│ │ ├── 32x8/
+│ │ │ └── foerch.gif
+│ └── README.md
 ├── Functions/
 │ ├── Get-AwtrixLocation.ps1
 │ ├── Get-GermanHoliday.ps1
