@@ -9,7 +9,7 @@
 
 ## 📋 Overview
 
-This repository provides a set of PowerShell scripts and supporting files to integrate and automate the [Awtrix Smart Clock](https://blueforcer.github.io/awtrix3) with various data sources and notifications. The scripts allow you to display worktime progress, weather, garbage collection schedules, Icinga monitoring status, Microsoft Teams status, and more on your Awtrix clock.
+This repository provides a set of PowerShell scripts and supporting files to integrate and automate the [Awtrix Smart Clock (Ulanzi Smart Pixel clock)](https://blueforcer.github.io/awtrix3) with various data sources and notifications. The scripts allow you to display worktime progress, weather, garbage collection schedules, Icinga monitoring status, Microsoft Teams status, and more on your Awtrix clock.
 
 ## 🔧 Features
 
